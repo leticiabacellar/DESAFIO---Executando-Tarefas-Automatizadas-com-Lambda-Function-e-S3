@@ -84,11 +84,11 @@ Configurei a função Lambda para ser disparada automaticamente quando um novo a
 
 - No painel da Lambda, adicionei um gatilho (trigger):
 
--- Serviço: S3
+- Serviço: S3
 
--- Bucket: lambda-automation-larissa
+- Bucket: lambda-automation-larissa
 
--- Evento: All object create events (todos os uploads)
+- Evento: All object create events (todos os uploads)
 
 Salvei a configuração e testei o fluxo.
 
