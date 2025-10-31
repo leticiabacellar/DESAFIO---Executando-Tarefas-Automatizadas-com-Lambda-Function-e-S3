@@ -77,6 +77,7 @@ Esse código é responsável por:
 
 Cliquei em Deploy para aplicar as alterações.
 
+---
 
 ### 5️⃣ Criando o Trigger (Gatilho)
 
@@ -92,6 +93,7 @@ Configurei a função Lambda para ser disparada automaticamente quando um novo a
 
 Salvei a configuração e testei o fluxo.
 
+---
 
 ### 6️⃣ Testando a Automação
 
@@ -105,6 +107,7 @@ Resultado:
 ✅ Mensagem retornada:
 Execução bem-sucedida! Arquivo processado com sucesso.
 
+---
 
 ### 💭 Insights Aprendidos
 
@@ -113,6 +116,8 @@ Execução bem-sucedida! Arquivo processado com sucesso.
 🧩 O uso de gatilhos (triggers) permite que as funções executem apenas quando necessário, reduzindo custos.
 🔐 O IAM é essencial para controlar permissões e garantir segurança entre serviços.
 📊 O CloudWatch é uma ferramenta indispensável para monitorar execuções e depurar funções Lambda.
+
+---
 
 ### 🧰 Ferramentas e Tecnologias Utilizadas
 
@@ -124,6 +129,7 @@ Execução bem-sucedida! Arquivo processado com sucesso.
 - 💻 Python 3.9
 - 🧾 Git e GitHub
 
+---
 
 ### 🔗 Referências
 
@@ -131,11 +137,15 @@ Execução bem-sucedida! Arquivo processado com sucesso.
 - 🗂️ Documentação Amazon S3
 - 💡 Bootcamp Santander AWS Cloud - DIO
 
+---
+
 ### 🏁 Conclusão
 
 Esse desafio foi fundamental para entender na prática como a AWS permite automatizar tarefas com Lambda e S3, explorando o conceito de Serverless.
 A experiência reforçou meu aprendizado sobre integração entre serviços AWS, segurança, e automação inteligente.
 Agora, tenho uma visão mais clara de como usar esses recursos para criar soluções escaláveis e eficientes na nuvem. ☁️💻
+
+---
 
 👩‍💻 Autora: Larissa Bacellar Marçal
 📅 Bootcamp Santander AWS Cloud – DIO
